@@ -1,12 +1,11 @@
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+### ✅ Now do the following in terminal:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+1. Save this updated `README.md`
+2. Then run:
+```bash
+git add README.md
+git commit -m "Resolved README.md conflict"
+git push -u origin main
